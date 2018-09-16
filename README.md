@@ -1,6 +1,8 @@
 # Minikernel
 
-Implementación en C de la versión simplificada del kernel de un sistema operativo, incluyendo funcionalidades como:
+Implementación en C de la versión simplificada del kernel de un sistema operativo, realizada para la asignatura Ampliación de Sistemas Operativos durante el curso 2016-2017.
+
+Incluye funcionalidades como:
 
 * Gestión de procesos.
 * Multiprogramación.
